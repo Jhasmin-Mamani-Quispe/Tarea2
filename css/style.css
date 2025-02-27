@@ -1,0 +1,142 @@
+.main{
+ background-color: rgb(241, 250, 250);
+ width: 500px;
+ height: 500px;
+ position: relative;
+}
+.c1{
+ background-color:#987654;
+ width: 150px;
+ height: 150px;
+ /*posicionamineto*/
+ top: 130px; left: 190px;
+ position: absolute;
+ border-radius: 50%; 
+}
+.c11{
+ position: absolute;
+ width: 36px;
+ height: 28px;
+ background-color: rgb(254, 254, 254);
+ border-radius: 50%;
+ top: 50px;
+ left: 35px;
+}
+.c12{
+ position: absolute;
+ width: 36px;
+ height: 28px;
+ background-color: rgb(254, 254, 254);
+ border-radius: 50%;
+ top: 50px;
+ right:35px;
+}
+.c13{
+ position: absolute;
+ width: 59px;
+ height: 50px;
+ background-color: rgb(255, 253, 253);
+ border-radius: 50%;
+ top: 90px;
+ right:45px;
+}
+.c111{
+ width: 20px;
+ height: 20px;
+ background-color: black;
+ border-radius: 50%;
+ margin-left: 8px;
+}
+.c121{
+ width: 20px;
+ height: 20px;
+ background-color: black;
+ border-radius: 50%;
+ margin-left: 8px;
+}
+.c131{
+ width: 30px;
+ height: 20px;
+ background-color: black;
+ border-radius: 50%;
+ margin-left: 13px;
+}
+.c2{
+ background-color: #987654;
+ width: 180px;
+ height: 180px;
+ top: 270px; left: 170px;
+ position:absolute;
+ /*position: fixed;fija al navegador su posicion definida*/
+ border-radius: 50%;
+}
+.c21{
+ background-color: #F1D4A5;
+ width: 95px;
+ height: 110px;
+ border-radius: 50%;
+ position:absolute;
+ top: 35px; left:43px;
+}
+.c3{
+ background-color:#987654;
+ width: 40px;
+ height: 40px;
+ border-radius: 50%; 
+ position: absolute;
+ top:120px;
+ left: 200px;
+ /*position: relative;/*se mueve algo...de acuerdo su cuadro padre*/
+}
+.c4{
+ background-color:#987654;
+ width: 40px;
+ height: 40px;
+ border-radius: 50%; 
+ position: absolute;
+ top: 120px;
+ right: 170px;
+}
+.c5{
+ position: absolute;
+ width: 76px;
+ height: 60px;
+ background-color:  #987654;
+ border-radius: 40px;
+ top: 273px;
+ left: 113px;
+}
+.c6{
+ position: absolute;
+ width: 76px;
+ height: 60px;
+ background-color: #987654;
+ border-radius: 40px;
+ top: 273px;
+ right: 93px;
+}
+.c7{
+ position: absolute;
+ width: 60px;
+ height: 40px;
+ background-color: #987654;
+ border-radius: 30px;
+ top: 410px;
+ left: 145px;
+}
+.c8{
+ position: absolute;
+ width: 60px;
+ height: 40px;
+ background-color: #987654;
+ border-radius: 30px;
+ top: 410px;
+ right: 125px;
+}
+.c9{
+ position: absolute;
+ bottom: 4px;
+ width: 100%;
+ font-family:'Franklin Gothic Medium';
+ font-size: 12px;
+}
