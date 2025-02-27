@@ -4,11 +4,10 @@
  height: 500px;
  position: relative;
 }
-.c1{
+.c1{ 
  background-color:#987654;
  width: 150px;
  height: 150px;
- /*posicionamineto*/
  top: 130px; left: 190px;
  position: absolute;
  border-radius: 50%; 
@@ -67,7 +66,6 @@
  height: 180px;
  top: 270px; left: 170px;
  position:absolute;
- /*position: fixed;fija al navegador su posicion definida*/
  border-radius: 50%;
 }
 .c21{
@@ -86,7 +84,6 @@
  position: absolute;
  top:120px;
  left: 200px;
- /*position: relative;/*se mueve algo...de acuerdo su cuadro padre*/
 }
 .c4{
  background-color:#987654;
